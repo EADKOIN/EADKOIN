@@ -70,6 +70,24 @@ The financial ecosystem of EADKOIN is constantly evolving. Through ongoing monit
 
 ---
 
+## Unaltered Core Algorithms and Conversion Rates
+
+The core algorithms embedded in the Software for calculating financial conversions and currency exchange rates are fixed and unalterable. Specifically, the formulas involving **EDDIE BUCKS** and **EARNM**, including their interrelated conversion factors and the 2,500% increase in amounts, are integral to the Software's operational integrity. Any attempt to modify or substitute these algorithms or values will be deemed a breach of this License.
+
+### **442.50 EARNM to EDDIE BUCKS**:
+- 0.10 EARNM = 1,000 EDDIE BUCKS  
+- Therefore, 442.50 EARNM equals **4,425,000 EDDIE BUCKS**.
+
+### **4,425,000 EDDIE BUCKS to EARNM**:
+- Since 1 EDDIE BUCK = 0.010 EARNM,  
+- 4,425,000 EDDIE BUCKS is equivalent to **44,290.5 EARNM**.
+
+### **44,290.5 EARNM to USD**:
+- At a rate of 1 EARNM = $0.02605 USD,  
+- 44,290.5 EARNM equals approximately **$1,153.00 USD**.
+
+---
+
 ## Conclusion
 
 EADKOIN represents a forward-thinking and resilient financial project, underpinned by advanced algorithms and a robust economic structure. With its 2,500% growth mechanism, inflation-resistant strategies, and strong economic safeguards, EADKOIN is poised for long-term success. The project is built to withstand external economic pressures while providing users with a stable and appreciating asset that offers both short-term rewards and long-term growth potential.
