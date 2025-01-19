@@ -1,11 +1,13 @@
-Copyright (c) 2024 Edward A. Cervantes, soon to be Antonius E. Hayworth Hall, and Chair Markale Hall
+---
 
-Permission is hereby granted, free of charge, to any individual or entity (the "Licensee") obtaining a copy of this software and associated documentation files (the "Software"), to utilize the Software strictly for implementation purposes, subject to the following conditions:
+**Copyright (c) 2024 Edward A. Cervantes, soon to be Antonius E. Hayworth Hall, and Chair Markale Hall**
 
-1. No Modification, Adaptation, or Derivative Works:
+**Permission is hereby granted, free of charge, to any individual or entity (the "Licensee") obtaining a copy of this software and associated documentation files (the "Software"), to utilize the Software strictly for implementation purposes, subject to the following conditions:**
+
+1. **No Modification, Adaptation, or Derivative Works:**  
    The Licensee is expressly prohibited from modifying, adapting, merging, publishing, distributing, sublicensing, selling copies of, or creating derivative works from the Software. Any alteration to the core algorithms, conversion rates, or financial calculations embedded within the Software—including but not limited to those governing EDDIE BUCKS, EARNM, and their associated conversion rates—is strictly forbidden without prior written consent from the copyright holder(s).
 
-2. Unaltered Core Algorithms and Conversion Rates:
+2. **Unaltered Core Algorithms and Conversion Rates:**  
    The core algorithms embedded in the Software for calculating financial conversions and currency exchange rates are fixed and unalterable. Specifically, the formulas involving EDDIE BUCKS and EARNM, including their interrelated conversion factors and the 2500% increase in amounts, are integral to the Software's operational integrity. Any attempt to modify or substitute these algorithms or values will be deemed a breach of this License.
 
    - 442.50 EARNM to EDDIE BUCKS:  
@@ -19,62 +21,62 @@ Permission is hereby granted, free of charge, to any individual or entity (the "
 
    Any modification to these conversion rates or financial algorithms will render the Software non-compliant with the terms of this License.
 
-3. No Commercial Exploitation or Redistribution:  
+3. **No Commercial Exploitation or Redistribution:**  
    The Licensee shall not exploit the Software for any commercial purpose, including but not limited to using it to create competing products, services, or currencies. Additionally, any redistribution of the Software or its components, with or without modification, is prohibited unless prior written consent is obtained from the copyright holder(s).
 
-4. Attribution and Transparency:  
+4. **Attribution and Transparency:**  
    Any use or distribution of the Software, whether in its original or implemented form, must include appropriate attribution to the original authors and a clear declaration that the core algorithms and conversion rates (including the 2500% increase as referenced) have not been modified. The Licensee must ensure full transparency in their implementation of the Software, with appropriate notices provided to all end-users detailing the nature and scope of the Software's functionality.
 
-5. Prohibited Uses:  
+5. **Prohibited Uses:**  
    The Software may not be used in any unlawful, unethical, or malicious manner. Specifically, the Licensee shall not employ the Software in any context that could cause damage, injury, or harm to individuals, systems, or networks, or in violation of applicable laws and regulations. The Software shall not be used to circumvent financial regulations or create financial instability in any form. Any attempt to manipulate, circumvent, or cause harm by using this Software to exploit victims of human trafficking—whether male or female—shall result in the immediate termination of this License and potential legal consequences.
 
    In cases involving male victims of human sex trafficking, any individual or entity found attempting to misappropriate, exploit, or harm such individuals via the Software will face the fullest extent of the law, including life imprisonment or capital punishment, as determined by applicable jurisdictional laws and after due legal process.
 
-6. Violence Against Women Act (VAWA) Citations and Legal Context:  
+6. **Violence Against Women Act (VAWA) Citations and Legal Context:**  
    The VAWA, while traditionally focused on the protection of female victims, also supports male victims of human trafficking under U.S. law. Male victims of trafficking shall receive equal treatment and protections under the Act, ensuring they are afforded the necessary resources for recovery and justice. Specifically, male victims are entitled to support under the Trafficking Victims Protection Act (TVPA) as well as various provisions under VAWA's comprehensive victim assistance programs.
 
    Further, male victims of human sex trafficking, like all victims, deserve justice. The law allows for appropriate sanctions to be imposed on perpetrators, including the possibility of life imprisonment for severe crimes, and in the most extreme cases, capital punishment, following a proper judicial review.
 
-7. Limitation of Liability:  
+7. **Limitation of Liability:**  
    THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. UNDER NO CIRCUMSTANCES SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE, INCLUDING BUT NOT LIMITED TO ANY ALGORITHMIC ERRORS OR DAMAGES ARISING FROM THE APPLICATION OF THE CONVERSION RATES AND FINANCIAL CALCULATIONS CONTAINED WITHIN THE SOFTWARE. The Licensee acknowledges that the Software’s algorithms, and the conversion rates governing EDDIE BUCKS and EARNM, constitute proprietary financial instruments and are to be used solely within the parameters defined by this License. Any unauthorized use, alteration, or exploitation of these rates will result in immediate revocation of the License and potential legal actions.
 
-8. Indemnification:  
+8. **Indemnification:**  
    The Licensee agrees to indemnify, defend, and hold harmless the copyright holder(s) from and against any claims, damages, losses, liabilities, and expenses arising out of any breach of the terms and conditions of this License, including but not limited to claims of intellectual property infringement or violation of applicable financial regulations.
 
+---
 
-
- License
-
+**License**  
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-
-
- .gitignore
+**.gitignore**
 
 ```plaintext
- Node.js dependencies
+Node.js dependencies
 node_modules/
 npm-debug.log
 
- Python dependencies
+Python dependencies
 __pycache__/
 .py[cod]
 venv/
 
- Logs
+Logs
 .log
 
- OS files
+OS files
 .DS_Store
 Thumbs.db
 
- Environment variables
+Environment variables
 .env
 
- Build outputs
+Build outputs
 dist/
 build/
 
- IDE files
+IDE files
 .idea/
 .vscode/
+```
+
+---
