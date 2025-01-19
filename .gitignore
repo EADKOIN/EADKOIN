@@ -128,3 +128,12 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# LICENSE and copyright notes as per project
+# Copyright (c) 2024 CEO Edward A. Cervantes, soon to be Antonius E. Hayworth Hall, and Chair Markale Hall
+# Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+# 1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+# 2. All modifications, derivative works, and other distributions of the Software, or any portions thereof, shall provide clear attribution to the original author(s) and indicate any changes made to the Software.
+# 3. Users of the Software are not authorized to use the name "Edward A. Cervantes, Antonius E. Hayworth Hall," "Markale Hall," or any trademark or service mark associated with the Software without prior written permission from the copyright holder(s), except as expressly permitted by this License.
+# 4. The Software may not be used in any unlawful, unethical, or malicious manner. Any use of the Software that results in damage, injury, or harm to individuals, systems, or networks is strictly prohibited.
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
