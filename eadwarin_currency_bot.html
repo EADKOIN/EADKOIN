@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EADWARIN Currency Bot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            text-align: center;
+        }
+        .currency-info {
+            margin-top: 20px;
+        }
+        .currency-info table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .currency-info th, .currency-info td {
+            padding: 8px;
+            text-align: center;
+            border: 1px solid #ddd;
+        }
+        button {
+            display: block;
+            margin: 20px auto;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="header">EADWARIN Currency Bot</h1>
+        <div class="currency-info">
+            <h2>Current EADKOIN Value</h2>
+            <table>
+                <tr>
+                    <th>Region</th>
+                    <th>Base Value (USD)</th>
+                    <th>Adjusted Value (EADKOIN)</th>
+                </tr>
+                <tr>
+                    <td>USA</td>
+                    <td>$1.00</td>
+                    <td id="usa-value"></td>
+                </tr>
+                <tr>
+                    <td>EU (Euro)</td>
+                    <td>$1.08</td>
+                    <td id="eu-value"></td>
+                </tr>
+                <tr>
+                    <td>Sub-Saharan Africa</td>
+                    <td>$0.80</td>
+                    <td id="africa-value"></td>
+                </tr>
+            </table>
+        </div>
+        <button onclick="adjustCurrency()">Adjust Currency for Inflation</button>
+    </div>
+
+    <script src="eadwarin_currency_bot.js"></script>
+</body>
+</html>
