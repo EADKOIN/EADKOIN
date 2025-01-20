@@ -137,3 +137,8 @@ dist
 # 3. Users of the Software are not authorized to use the name "Edward A. Cervantes, Antonius E. Hayworth Hall," "Markale Hall," or any trademark or service mark associated with the Software without prior written permission from the copyright holder(s), except as expressly permitted by this License.
 # 4. The Software may not be used in any unlawful, unethical, or malicious manner. Any use of the Software that results in damage, injury, or harm to individuals, systems, or networks is strictly prohibited.
 # THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+*.pyc
+__pycache__/
