@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EADWARIN Currency Bot</title>
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="header">EADWARIN Currency Bot</h1>
+        <div class="currency-info">
+            <h2>Current EADKOIN Value</h2>
+            <table>
+                <tr>
+                    <th>Region</th>
+                    <th>Base Value (USD)</th>
+                    <th>Adjusted Value (EADKOIN)</th>
+                </tr>
+                <tr>
+                    <td>USA</td>
+                    <td>$1.00</td>
+                    <td id="usa-value"></td>
+                </tr>
+                <tr>
+                    <td>EU (Euro)</td>
+                    <td>$1.08</td>
+                    <td id="eu-value"></td>
+                </tr>
+                <tr>
+                    <td>Sub-Saharan Africa</td>
+                    <td>$0.80</td>
+                    <td id="africa-value"></td>
+                </tr>
+            </table>
+        </div>
+        <button onclick="adjustCurrency()">Adjust Currency for Inflation</button>
+    </div>
+
+    <script src="assets/script.js"></script>
+</body>
+</html>
