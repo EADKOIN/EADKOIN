@@ -160,4 +160,17 @@ This project implements the **EADKOIN** digital token and the **EADWARIN** curre
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+---
+
+# EADKOIN Digital Token and EADWARIN Currency Bot
+
+## Description
+This project implements the **EADKOIN** digital token with a dynamic inflation-adjusting **currency bot (EADWARIN)**. The bot updates currency values across different regions based on inflation rates, ensuring economic stability and compliance with SDG goals.
+
+## Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/deedeeshard/EADKOIN.git
+   cd EADKOIN
 
