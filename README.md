@@ -137,3 +137,27 @@ The following data outlines the financial projections and tax tariff details ass
 ```
 
 This update includes the requested governance, licensing, and royalty details, as well as expanded information about the stakeholders' role and how decisions regarding inflation and economic stability are made within EADKOIN.
+
+---
+
+# EADKOIN & EADWARIN System
+
+This project implements the **EADKOIN** digital token and the **EADWARIN** currency bot system for adjusting currency values and tax rates based on inflation.
+
+## Project Structure
+
+- **/src**: Contains the HTML, JavaScript, and Python files for the system.
+- **/docs**: Documentation related to the setup and usage.
+- **LICENSE**: The licensing information for the repository.
+
+## How to Use
+
+1. **EADWARIN Currency Bot (HTML + JS)**: Open `eadwarin_currency_bot.html` in a web browser to interact with the bot. Click the button to adjust currency values dynamically based on inflation.
+
+2. **Backend Logic (Python)**: Run `eadwarin_currency_bot.py` and `eadwarin_tax_structure.py` in a Python environment to simulate inflation-adjusted currency and tax values.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
