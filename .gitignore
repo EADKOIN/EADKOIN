@@ -142,3 +142,7 @@ dist
 
 *.pyc
 __pycache__/
+
+git add .
+git commit -m "Initial commit for EADKOIN digital token and EADWARIN currency bot implementation"
+
